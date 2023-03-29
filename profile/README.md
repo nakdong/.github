@@ -1,9 +1,9 @@
-## Hi there 👋
+##안녕하세요👋
 
-**Here are some ideas to get you started:**
+**다음은 시작하는 데 도움이 되는 몇 가지 아이디어입니다.**
 
-🙋‍♀️ A short introduction - what is your organization all about?  
-🌈 Contribution guidelines - how can the community get involved?  
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?  
-🍿 Fun facts - what does your team eat for breakfast?  
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
+🙋‍♀️ 짧은 소개 - 귀하의 조직은 무엇에 관한 것입니까?  
+🌈 기여 가이드라인 - 커뮤니티는 어떻게 참여할 수 있나요?  
+👩‍💻 유용한 리소스 - 커뮤니티에서 문서를 어디에서 찾을 수 있나요? 커뮤니티가 알아야 할 다른 사항이 있습니까?  
+🍿 재미있는 사실 - 당신의 팀은 아침에 무엇을 먹나요?  
+🧙 기억하세요. [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/)의 힘으로 강력한 일을 할 수 있습니다. (기본 작성 및 서식 지정 구문)  
