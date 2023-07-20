@@ -1,10 +1,15 @@
-# 👋 안녕하세요! 
-## 편한 미래를 위해 나아가는, 낙동플러스입니다!
+<br />
+<br />
 
-**IoT 제품을 연구및 개발하는 기업(아직은 팀) 입니다.**
+<div align="center">
 
-🙋‍♀️ 짧은 소개 - 귀하의 조직은 무엇에 관한 것입니까?  
-🌈 기여 가이드라인 - 커뮤니티는 어떻게 참여할 수 있나요?  
-👩‍💻 유용한 리소스 - 커뮤니티에서 문서를 어디에서 찾을 수 있나요? 커뮤니티가 알아야 할 다른 사항이 있습니까?  
-🍿 재미있는 사실 - 당신의 팀은 아침에 무엇을 먹나요?  
-🧙 기억하세요. [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/)의 힘으로 강력한 일을 할 수 있습니다. (기본 작성 및 서식 지정 구문)  
+<a href="http://makerzip.com/"><img src="https://avatars.githubusercontent.com/u/100911422?s=200&v=4" alt="낙동플러스 로고" width="100" /></a><!-- 노동(읍읍) -->
+
+
+<b><big><big>Nakdong+ :: 낙동플러스</big></big></b><br />
+<small>저희는 편안한 미래를 스스로 개척하는, 낙동플러스™ 입니다!</small>  
+IoT 제품을 연구및 개발하는 기업(아직은 팀) 입니다.
+</div>
+
+<br />
+<br />
